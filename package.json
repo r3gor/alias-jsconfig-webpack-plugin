@@ -1,6 +1,6 @@
 {
-  "name": "@fork/fork__alias-jsconfig-webpack-plugin",
-  "version": "1.0.3-1",
+  "name": "fork__fork__alias-jsconfig-webpack-plugin",
+  "version": "1.0.3-2",
   "description": "webpack plugin: auto convert resolve.alias to jsconfig.json or tsconfig.json",
   "main": "webpack-plugin/index.js",
   "scripts": {
